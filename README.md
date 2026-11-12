@@ -1,8 +1,8 @@
 # Time Series Exercise 2: Time Series Analysis and Decomposition
 
-## Name: Aravindan T
+## Name: Anwarsha E.M
 
-## Roll no: 2305001003
+## Roll no: 2305001002
 
 ## Department: CSE
 
